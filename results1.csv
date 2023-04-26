@@ -1,0 +1,6 @@
+ML Model,Train Accuracy,Test Accuracy
+XGBoost,0.939,0.936
+Multilayer Perceptrons,0.938,0.933
+Decision Tree,0.907,0.913
+SVM,0.891,0.894
+Random Forest,0.891,0.892
